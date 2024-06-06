@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MentorGram</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="codehive_id">Codehive Id</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login">Already Registered? Login</string>
+    <string name="login">Login</string>
 </resources>
